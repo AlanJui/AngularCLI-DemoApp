@@ -1,19 +1,39 @@
 {
   "todos": [
     {
-      "id": 1,
-      "title": "Read SitePoint article",
-      "complete": false
-    },
-    {
       "id": 2,
       "title": "Clean inbox",
-      "complete": false
+      "complete": true
     },
     {
       "id": 3,
       "title": "Make restaurant reservation",
       "complete": false
+    },
+    {
+      "title": "My Test",
+      "id": 4,
+      "complete": true
+    },
+    {
+      "title": "todo",
+      "id": 5,
+      "complete": true
+    },
+    {
+      "title": "test1",
+      "id": 6,
+      "complete": true
+    },
+    {
+      "title": "work item",
+      "id": 7,
+      "complete": true
+    },
+    {
+      "title": "好奇",
+      "id": 8,
+      "complete": true
     }
   ]
 }
