@@ -86,9 +86,13 @@ ng e2e
 
 終端機指令：
 ```$xslt
-ng build --dev --env=staging
+ng build -dev -e staging
 ```
 
+終端機指令：
+```$xslt
+ng serve -dev -e staging
+```
 
 ---
 
@@ -98,7 +102,7 @@ ng build --dev --env=staging
 
 終端機指令：
 ```$xslt
-ng build --prod
+ng build -prod
 ```
 
 ### 模擬正式機運作
@@ -107,7 +111,7 @@ ng build --prod
 
 終端機指令：
 ```$xslt
-ng serve --prod
+ng serve -prod
 ```
 
 ## 參考指南

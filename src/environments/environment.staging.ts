@@ -1,5 +1,5 @@
 export const environment = {
-  production: true,
+  production: false,
   apiUrl: 'http://localhost:3000',
-  envName: 'Production Machine'
+  envName: 'Staging Machine'
 };
